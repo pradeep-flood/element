@@ -1,0 +1,8 @@
+{
+	"name": "examples",
+	"version": "0.0.0",
+	"description": "flood element test script",
+	"dependencies": {
+		"@flood/element": "^1.0.3-48"
+	}
+}
